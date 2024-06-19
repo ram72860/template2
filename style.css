@@ -1,0 +1,690 @@
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.ram {
+    border: 2px solid black;
+    height: 600px;
+    background: azure;
+}
+
+.sec1 h1 {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.sec2 {
+    background: rgb(16, 11, 11);
+    width: 120px;
+    height: 35px;
+    margin-left: 50px;
+}
+
+.sec2 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 25px;
+}
+
+.sec3 {
+
+    background: rgb(249, 0, 0);
+    width: 120px;
+    height: 35px;
+    margin-left: 50px;
+}
+
+.sec3 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 31px;
+}
+
+.sec4 {
+    background: rgb(106, 121, 192);
+    width: 120px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.sec4 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 31px;
+}
+
+.sec5 {
+    background: rgb(36, 52, 130);
+    width: 120px;
+    height: 50px;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.sec5 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 31px;
+}
+
+.sec6 {
+    background: rgb(249, 188, 35);
+    width: 120px;
+    height: 30px;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.sec6 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 31px;
+}
+
+.sec7 {
+    background: rgb(102, 198, 157);
+    width: 120px;
+    height: 30px;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.sec7 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 31px;
+}
+
+.sec8 {
+    background: rgb(130, 180, 211);
+    padding-left: 10px;
+    width: 110px;
+    height: 30px;
+    padding-top: 30px;
+    margin-left: 50px;
+}
+
+.sec8 p {
+    color: azure;
+    margin-top: -2px;
+    margin-left: 31px;
+}
+
+.sec9 h1 {
+    margin-left: 340px;
+    margin-top: -480px;
+}
+
+.sec10 {
+    margin-left: 220px;
+    background: rgb(16, 11, 11);
+    width: 300px;
+    padding-left: 90px;
+    height: 29px;
+    margin-top: 34px;
+
+}
+
+.sec10 p {
+    margin-left: 55px;
+    color: azure;
+    margin-top: 10px;
+
+}
+
+.sec11 {
+    margin-left: 220px;
+    padding: 70px;
+    background: rgb(106, 121, 192);
+    width: 229px;
+    padding-left: 90px;
+    height: 20px;
+    margin-top: -1px;
+}
+
+.sec11 p {
+    margin-left: 61px;
+    color: azure;
+    margin-top: -10px;
+}
+
+.sec12 {
+    margin-left: 220px;
+    background: rgb(249, 0, 0);
+    width: 1px;
+    padding-left: 90px;
+    height: 248px;
+    margin-top: 10px;
+}
+
+.sec12 p {
+    margin-left: -186px;
+    padding: 120px;
+    margin-top: -10px;
+    color: azure;
+}
+
+.sec13 {
+    margin-left: 311px;
+    background: rgb(36, 52, 130);
+    padding: 20px;
+    width: 259px;
+    height: 108px;
+    margin-top: -248px;
+}
+
+.sec13 p {
+    margin-left: 33px;
+    color: azure;
+    padding: 50px;
+    margin-top: -10px;
+}
+
+.sec14 {
+    margin-left: 311px;
+    background: rgb(249, 188, 35);
+    width: 300px;
+    height: 49px;
+
+}
+
+.sec14 p {
+    margin-left: 79px;
+    color: azure;
+    padding: 15px;
+    margin-top: -10px;
+}
+
+.sec15 {
+    margin-left: 311px;
+    background: rgb(102, 198, 157);
+    width: 170px;
+    height: 62px;
+    margin-top: -16px;
+}
+
+.sec15 p {
+    margin-left: 49px;
+    color: azure;
+    padding: 15px;
+    margin-top: 16px;
+}
+
+.sec16 {
+    margin-left: 481px;
+    background: rgb(130, 180, 211);
+    width: 131px;
+    height: 62px;
+    margin-top: -78px;
+}
+
+.sec16 p {
+    margin-left: 49px;
+    color: azure;
+    padding: 15px;
+    margin-top: 16px;
+}
+
+.sec17 h1 {
+    margin-left: 950px;
+    margin-top: -500px;
+}
+
+.sec18 {
+    background: black;
+    padding: 10px;
+    height: 30px;
+    width: 120px;
+    margin-left: 750px;
+    color: azure;
+}
+
+.sec18 p {
+    margin-left: 29px;
+    color: azure;
+    margin-top: 5px
+}
+
+.sec19 {
+    background: rgb(249, 0, 0);
+    padding: 10px;
+    height: 30px;
+    width: 330px;
+    margin-left: 890px;
+    color: azure;
+    margin-top: -50px;
+
+}
+
+.sec19 p {
+    margin-left: 109px;
+    color: azure;
+    margin-top: 5px
+}
+
+.sec20 {
+    background: rgb(106, 121, 192);
+    padding: 80px;
+    height: 30px;
+    width: 330px;
+    margin-left: 750px;
+    color: azure;
+    margin-top: -1px;
+}
+
+.sec20 p {
+    margin-left: 149px;
+    color: azure;
+    margin-top: 5px;
+}
+
+.sec21 {
+    background: rgb(36, 52, 130);
+    padding: 80px;
+    height: 8px;
+    width: 90px;
+    margin-left: 750px;
+    color: azure;
+    margin-top: -1px;
+}
+
+.sec21 p {
+    margin-left: 20px;
+    color: azure;
+    margin-top: 5px;
+}
+
+.sec22 {
+    background: rgb(130, 180, 211);
+    height: 70px;
+    width: 140px;
+    margin-left: 1100px;
+    margin-top: -170PX;
+    color: azure;
+
+}
+
+.sec22 p {
+    margin-left: 20px;
+    color: black;
+    margin-top: 1px;
+    padding: 20PX;
+}
+
+.sec23 {
+    background: rgb(102, 198, 157);
+    height: 86px;
+    width: 140px;
+    margin-left: 1100px;
+    margin-top: -5PX;
+    color: azure;
+}
+
+.sec23 p {
+    margin-left: 15px;
+    color: black;
+    margin-top: 1px;
+    padding: 30PX;
+}
+
+.sec24 {
+    background: rgb(249, 188, 35);
+    height: 60px;
+    width: 490px;
+    margin-left: 750px;
+    color: azure;
+    margin-top: 10px;
+}
+
+.sec24 p {
+    margin-left: 185px;
+    margin-top: -10px;
+    color: black;
+    padding: 20px;
+}
+
+@media screen and (max-width:1024px) {
+    .main3 {
+        flex-wrap: wrap;
+    }
+
+    .sec17 h1 {
+        margin-left: 400px;
+        margin-top: 20px;
+    }
+
+    .sec18 {
+        margin-left: 60px;
+        width: 25%;
+        height: 90px;
+    }
+
+    .sec18 p {
+        margin-left: 111px;
+        margin-top: 40px;
+    }
+
+    .sec19 {
+        margin-top: -110px;
+        margin-left: 330px;
+        width: 59%;
+        height: 90px;
+    }
+
+    .sec19 p {
+        margin-left: 335px;
+
+    }
+
+    .sec20 {
+        margin-left: 60px;
+        width: 72%;
+        height: 150px;
+        margin-top: -1px;
+    }
+
+    .sec20 p {
+        margin-left: 355px;
+    }
+
+    .sec21 {
+        margin-top: -1px;
+        margin-left: 60px;
+        width: 31%;
+        height: 100px;
+    }
+
+    .sec21 p {
+        margin-left: 131px;
+
+
+    }
+
+    .sec22 {
+        margin-left: 670px;
+        width: 27.4%;
+        margin-top: -260px;
+        height: 140px;
+    }
+
+    .sec22 p {
+        margin-left: 90px;
+
+
+    }
+
+    .sec23 {
+        margin-left: 670px;
+        width: 27.4%;
+        height: 120px;
+    }
+
+    .sec23 p {
+        margin-left: 70px;
+    }
+
+    .sec24 {
+        margin-left: 60px;
+        width: 88%;
+        margin-top: 10px;
+    }
+
+    .sec24 p {
+        margin-left: 430px;
+    }
+
+    .sec9 {
+        margin-left: 240px;
+    }
+
+    .sec10 {
+        margin-left: 390px;
+        width: 40%;
+        height: 50px;
+    }
+
+    .sec10 p {
+        padding: 10px;
+        margin-left: 120px;
+
+    }
+
+    .sec11 {
+        margin-left: 390px;
+        width: 33.1%;
+    }
+
+    .sec11 p {
+        padding: 10px;
+        margin-left: 130px;
+    }
+
+    .sec12 {
+        margin-left: 390px;
+        width: 10%;
+        height: 248px;
+    }
+
+    .sec12 p {
+
+        margin-left: -140px;
+    }
+
+    .sec13 {
+        height: 208px;
+        margin-left: 580px;
+        width: 26.1%;
+    }
+
+    .sec14 {
+        margin-top: 10px;
+        margin-left: 390px;
+        width: 49%;
+    }
+
+    .sec14 p {
+        margin-left: 170px;
+    }
+
+    .sec15 {
+        margin-left: 390px;
+        width: 25%;
+    }
+
+    .sec16 {
+        margin-left: 630px;
+        width: 25.2%;
+    }
+
+    .sec1 {
+
+        margin-left: 100px;
+
+    }
+
+    .sec2 {
+        margin-left: 120px;
+        width: 20%;
+
+    }
+
+    .sec2 p {
+        margin-left: 70px;
+    }
+
+    .sec3 {
+        margin-left: 120px;
+        width: 20%;
+    }
+
+    .sec3 p {
+        margin-left: 70px;
+    }
+
+    .sec4 {
+        margin-left: 120px;
+        width: 20%;
+    }
+
+    .sec4 p {
+        margin-left: 70px;
+    }
+
+    .sec5 {
+        margin-left: 120px;
+        width: 20%;
+    }
+
+    .sec5 p {
+        margin-left: 70px;
+    }
+
+    .sec6 {
+        margin-left: 120px;
+        width: 20%;
+    }
+
+    .sec6 p {
+        margin-left: 70px;
+    }
+
+    .sec7 {
+        margin-left: 120px;
+        width: 20%;
+    }
+
+    .sec7 p {
+        margin-left: 70px;
+    }
+
+    .sec8 {
+        margin-left: 120px;
+        width: 19%;
+    }
+
+    .sec8 p {
+        margin-left: 70px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main2 {
+        flex-wrap: wrap;
+    }
+
+    .sec9 {
+        margin-top: 530px;
+        margin-left: 30px;
+    }
+
+    .sec10 {
+        height: 100px;
+        margin-left: 25px;
+        width: 93%;
+    }
+
+    .sec10 p {
+        margin-left: 280px;
+    }
+
+    .sec11 {
+        margin-left: 25px;
+        width: 83.7%;
+    }
+
+    .sec11 p {
+        margin-left: 295px;
+    }
+
+    .sec12 {
+        margin-left: 25px;
+        width: 17.9%;
+        height: 359px;
+    }
+
+    .sec12 p {
+        margin-left: -160px;
+    }
+
+    .sec13 {
+        margin-top: -359px;
+        margin-left: 249px;
+        width: 69.9%;
+    }
+
+    .sec13 p {
+        margin-top: 40px;
+        margin-left: 200px;
+    }
+
+    .sec14 {
+        margin-left: 250px;
+        width: 75.2%;
+    }
+
+    .sec14 p {
+        margin-left: 270px;
+    }
+
+    .sec15 {
+        margin-left: 502px;
+        width: 40.8%;
+    }
+
+    .sec15 p {
+        margin-left: 140px;
+    }
+
+    .sec16 {
+        margin-left: 249px;
+        width: 30.7%;
+    }
+
+    .sec16 p {
+        margin-left: 70px;
+    }
+.sec17{
+    margin-top: 70px;
+}
+.sec18{
+    margin-left: 17px;
+    width: 39.5%;
+}
+.sec19{
+    margin-left: 330px;
+    width: 587%;
+}
+.sec19 p{
+    margin-left: 190px;
+    margin-top: 40px;
+}
+.sec20{
+    margin-left: 16px;
+    width: 80.5%;
+}
+.sec20 p{
+    margin-left: 290px;
+}
+.sec21{
+    margin-left: 16px;
+    width: 40.3%;
+}
+.sec22{
+    width: 40.5%;
+    margin-left: 477px;
+}
+.sec23{
+    margin-left: 477px;
+    width: 40.5%;
+}
+.sec24{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 102%;
+}
+.sec24 p{
+    margin-left: 290px;
+}
+}
